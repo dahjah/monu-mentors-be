@@ -1,1 +1,1 @@
-Hey look! A tasty new repo!
+Hey look! A yummy new repo!
